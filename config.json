@@ -1,1 +1,33 @@
-
+{
+ "Version": "1.0.0",
+ "ReleaseNotes": "",
+ "Servers": [
+  {
+   "Name": "Netherlands",
+   "FLAG": "NL.png",
+   "ServerIP": "ssh-sg-1.vpnv.cc",
+   "ServerPort": "22",
+   "SSLPort": "",
+   "ProxyIP": "auth.three.co.uk",
+   "ProxyPort": "80",
+   "ServerUser": "     ​           ‍     ‏ ​               ​     ‌ ‏     ‌               ‏       ‏ ​     ‍",
+   "ServerPass": " ‎           ‏ ‏                     ‍       ‍ ‍",
+   "sInfo": ""
+  }
+ ],
+ "Networks": [
+  {
+   "Name": "three uk ",
+   "Payload": "PATCH \/ HTTP\/1.1[crlf]Host: verify.monzo.com[crlf][crlf]CF-RAY \/ HTTP\/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "",
+   "pInfo": "No Load Required",
+   "chaveKey": "",
+   "serverNameKey": "",
+   "dnsKey": "",
+   "remoteHost": "false",
+   "SlowDns": "false",
+   "isSSL": false,
+   "wsPayload": "false"
+  }
+ ]
+}
